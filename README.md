@@ -29,7 +29,7 @@ Add support for [each](http://localhost:3000/rock) [of](http://localhost:3000/pa
  1. Now step back into the action and write some logic to determine whether the player won or lost. Put the computer move and the outcome into instance variables.
  1. In the view template, display the instance variables. Format it a little with some markup and some copy.
 
-#### Part 2
+### Part 2
 
 Once you have completed the above for all three URLs,
 
