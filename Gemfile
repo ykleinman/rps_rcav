@@ -31,8 +31,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 group :development do
-  gem "pry-byebug"
-  gem "pry-rails"
+  gem "better_errors"
+  gem "binding_of_caller"
 end
 
 
