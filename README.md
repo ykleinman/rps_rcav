@@ -12,8 +12,8 @@ https://rps-rcav-target.herokuapp.com
 
 ### Setup
 
- - Clone this repository.
- - **Create a branch for your work.**
+ - **Fork this repository.**
+ - Clone your Fork (Open in Desktop)
  - In Terminal, `cd` to the root folder of the application.
  - `bundle install` (or just `bundle` for short). This makes sure that your laptop has all the gems it needs for this project. You only need to `bundle` once per project.
  - `rails server` (or just `rails s` for short). This starts up the app server so you can visit localhost:3000 and see it running. Ctrl-C to shut it down when you're done working.
