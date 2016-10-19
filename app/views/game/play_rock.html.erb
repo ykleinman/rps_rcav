@@ -1,0 +1,17 @@
+<h1>Howdy</h1>
+
+<p>You played paper</p>
+
+
+<% moves = ["rock", "paper", "scissors"] %>
+
+<% computer_move = moves.sample %>
+
+<p>
+  the computer played <%= @computer_move %>
+
+</p>
+
+<% if @computer_move == "paper" %>
+  <h3>You tied!</h3>
+<% end %>
